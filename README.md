@@ -4,6 +4,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
@@ -25,6 +26,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
 ## Matrix
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
