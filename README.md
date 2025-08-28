@@ -17,4 +17,5 @@
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
