@@ -34,6 +34,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
+| [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
@@ -55,9 +56,14 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
+| [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
