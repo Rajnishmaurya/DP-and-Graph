@@ -3,6 +3,7 @@ class Solution:
         if open==0 and close==0:
             result.append(temp)
             return 
+            
         if open:
             self.solve(result,temp+"(",open-1,close)
         if close>open:
