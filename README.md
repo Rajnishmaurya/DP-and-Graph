@@ -39,6 +39,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Matrix
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Combinatorics
 |  |
 | ------- |
