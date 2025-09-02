@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
