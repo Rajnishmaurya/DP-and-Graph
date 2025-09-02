@@ -26,6 +26,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
 ## Array
 |  |
@@ -33,6 +34,7 @@
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,5 +81,10 @@
 ## Union Find
 |  |
 | ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
