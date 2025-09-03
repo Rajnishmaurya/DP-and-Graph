@@ -30,6 +30,7 @@
 | [1738-maximal-network-rank](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1738-maximal-network-rank) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3189-find-champion-ii) |
 ## Array
 |  |
 | ------- |
