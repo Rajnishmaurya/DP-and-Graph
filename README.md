@@ -35,6 +35,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
+| [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1121-partition-array-for-maximum-sum) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -46,6 +47,7 @@
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0343-integer-break) |
 | [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
