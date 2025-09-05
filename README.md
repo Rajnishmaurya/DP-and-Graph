@@ -11,6 +11,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -19,6 +20,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -28,6 +30,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
 | [1325-path-with-maximum-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1325-path-with-maximum-probability) |
@@ -113,6 +116,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
 ## Minimum Spanning Tree
