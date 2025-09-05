@@ -19,6 +19,7 @@
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
@@ -26,6 +27,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
 | [1325-path-with-maximum-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1325-path-with-maximum-probability) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1738-maximal-network-rank) |
@@ -42,6 +44,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1325-path-with-maximum-probability) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 ## Dynamic Programming
 |  |
