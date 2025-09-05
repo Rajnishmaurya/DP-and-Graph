@@ -25,6 +25,7 @@
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -39,6 +40,7 @@
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1738-maximal-network-rank) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -58,6 +60,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 ## Dynamic Programming
