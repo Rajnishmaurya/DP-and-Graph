@@ -85,6 +85,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -115,11 +116,13 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,4 +181,8 @@
 |  |
 | ------- |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
