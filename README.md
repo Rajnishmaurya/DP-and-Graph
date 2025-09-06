@@ -34,6 +34,7 @@
 | [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
 | [1325-path-with-maximum-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -54,6 +55,7 @@
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1121-partition-array-for-maximum-sum) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1325-path-with-maximum-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1325-path-with-maximum-probability) |
@@ -118,6 +120,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
 ## Minimum Spanning Tree
