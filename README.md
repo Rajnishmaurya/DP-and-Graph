@@ -62,6 +62,7 @@
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -106,6 +107,7 @@
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0343-integer-break) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Combinatorics
