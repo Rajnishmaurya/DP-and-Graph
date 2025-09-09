@@ -28,6 +28,7 @@
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Graph
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3189-find-champion-ii) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Array
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0939-valid-permutations-for-di-sequence) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Topological Sort
 |  |
 | ------- |
