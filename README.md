@@ -69,6 +69,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -103,6 +104,7 @@
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
@@ -141,6 +143,7 @@
 | [1250-longest-common-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
@@ -170,6 +173,7 @@
 | ------- |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
