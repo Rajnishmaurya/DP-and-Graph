@@ -11,6 +11,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
@@ -21,6 +22,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
@@ -35,6 +37,7 @@
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
@@ -264,6 +267,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2472-build-a-matrix-with-conditions) |
 ## Design
