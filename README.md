@@ -67,6 +67,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
+| [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
 | [1063-best-sightseeing-pair](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1121-partition-array-for-maximum-sum) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
+| [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -197,6 +199,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -207,6 +210,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
