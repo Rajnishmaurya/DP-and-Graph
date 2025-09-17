@@ -72,6 +72,7 @@
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1121-partition-array-for-maximum-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1628-count-submatrices-with-all-ones) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1628-count-submatrices-with-all-ones) |
 ## Binary Search
@@ -254,6 +257,7 @@
 ## Tree
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Bit Manipulation
 |  |
@@ -286,4 +290,12 @@
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
