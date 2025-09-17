@@ -84,6 +84,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0939-valid-permutations-for-di-sequence) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Topological Sort
 |  |
@@ -308,4 +310,5 @@
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
