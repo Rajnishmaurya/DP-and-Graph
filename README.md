@@ -97,6 +97,7 @@
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1628-count-submatrices-with-all-ones) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2472-build-a-matrix-with-conditions) |
+| [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3462-vowels-game-in-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
@@ -188,6 +191,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -289,6 +293,7 @@
 | ------- |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
 | ------- |
