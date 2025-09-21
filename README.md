@@ -91,6 +91,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2472-build-a-matrix-with-conditions) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -191,6 +192,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3827-implement-router) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1325-path-with-maximum-probability) |
+| [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -294,6 +297,7 @@
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
@@ -329,6 +333,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3827-implement-router) |
 ## Queue
