@@ -7,6 +7,7 @@
 | [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 ## Depth-First Search
@@ -70,6 +71,7 @@
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0136-single-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
@@ -288,6 +290,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0136-single-number) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Prefix Sum
