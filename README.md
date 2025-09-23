@@ -111,6 +111,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
@@ -172,6 +173,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0424-longest-repeating-character-replacement) |
@@ -210,6 +212,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
