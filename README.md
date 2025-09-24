@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0166-fraction-to-recurring-decimal) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0343-integer-break) |
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
@@ -176,6 +177,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -197,6 +199,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0424-longest-repeating-character-replacement) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1264-maximum-number-of-words-you-can-type) |
