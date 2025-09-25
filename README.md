@@ -72,6 +72,7 @@
 | [0039-combination-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0136-single-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
@@ -115,6 +116,7 @@
 | [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
+| [0120-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
