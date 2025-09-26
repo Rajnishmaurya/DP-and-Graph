@@ -77,6 +77,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
+| [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0907-koko-eating-bananas) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
@@ -220,6 +221,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0141-linked-list-cycle) |
+| [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Union Find
@@ -237,6 +239,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
@@ -248,6 +251,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
@@ -283,6 +287,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1646-kth-missing-positive-number) |
 | [3827-implement-router](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3827-implement-router) |
