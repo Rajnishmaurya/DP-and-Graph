@@ -161,6 +161,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0166-fraction-to-recurring-decimal) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
@@ -377,4 +378,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
