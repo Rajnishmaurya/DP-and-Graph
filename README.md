@@ -22,6 +22,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -36,6 +37,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
@@ -106,6 +108,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
@@ -163,6 +166,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1628-count-submatrices-with-all-ones) |
+| [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2472-build-a-matrix-with-conditions) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 ## Math
@@ -244,6 +248,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
 ## Minimum Spanning Tree
@@ -278,6 +283,7 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -307,6 +313,7 @@
 | [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [3827-implement-router](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3827-implement-router) |
 ## Shortest Path
 |  |
