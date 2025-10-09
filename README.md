@@ -174,6 +174,7 @@
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2187-vowels-of-all-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2187-vowels-of-all-substrings) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Matrix
 |  |
@@ -201,12 +202,14 @@
 | [1642-water-bottles](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2187-vowels-of-all-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2187-vowels-of-all-substrings) |
 | [3462-vowels-game-in-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
+| [2187-vowels-of-all-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2187-vowels-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2187-vowels-of-all-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2187-vowels-of-all-substrings) |
 | [3462-vowels-game-in-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3872-find-most-frequent-vowel-and-consonant) |
