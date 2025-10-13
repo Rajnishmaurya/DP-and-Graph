@@ -100,6 +100,7 @@
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0907-koko-eating-bananas) |
 | [1018-largest-perimeter-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-largest-perimeter-triangle) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1121-partition-array-for-maximum-sum) |
@@ -354,6 +355,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -386,6 +388,7 @@
 |  |
 | ------- |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0939-valid-permutations-for-di-sequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -432,6 +435,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0424-longest-repeating-character-replacement) |
+| [1046-max-consecutive-ones-iii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Ordered Set
