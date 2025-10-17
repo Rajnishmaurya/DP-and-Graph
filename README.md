@@ -87,6 +87,7 @@
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0136-single-number) |
@@ -150,6 +151,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
@@ -315,6 +317,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-largest-perimeter-triangle) |
