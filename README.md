@@ -159,6 +159,7 @@
 | [0120-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0322-coin-change) |
@@ -218,6 +219,7 @@
 | [0050-powx-n](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0166-fraction-to-recurring-decimal) |
+| [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0368-largest-divisible-subset) |
@@ -276,6 +278,7 @@
 | [0127-word-ladder](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0166-fraction-to-recurring-decimal) |
+| [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0424-longest-repeating-character-replacement) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -349,6 +352,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1325-path-with-maximum-probability) |
