@@ -87,6 +87,7 @@
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0120-triangle) |
@@ -151,6 +152,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0120-triangle) |
@@ -501,4 +503,8 @@
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
