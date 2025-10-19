@@ -102,6 +102,7 @@
 | [0377-combination-sum-iv](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0413-arithmetic-slices) |
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
 | [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
@@ -172,6 +173,7 @@
 | [0377-combination-sum-iv](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0413-arithmetic-slices) |
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -482,6 +484,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1046-max-consecutive-ones-iii) |
