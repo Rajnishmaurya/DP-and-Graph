@@ -101,6 +101,7 @@
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0410-split-array-largest-sum) |
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
 | [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
@@ -170,6 +171,7 @@
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0410-split-array-largest-sum) |
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -331,6 +333,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-largest-perimeter-triangle) |
@@ -391,6 +394,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1046-max-consecutive-ones-iii) |
@@ -428,6 +432,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0410-split-array-largest-sum) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1046-max-consecutive-ones-iii) |
