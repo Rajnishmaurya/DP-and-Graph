@@ -195,6 +195,7 @@
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1250-longest-common-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1250-longest-common-subsequence) |
 | [1332-count-vowels-permutation](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1332-count-vowels-permutation) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1362-airplane-seat-assignment-probability) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -241,6 +242,7 @@
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
 | [0804-rotated-digits](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0804-rotated-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-largest-perimeter-triangle) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1362-airplane-seat-assignment-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1642-water-bottles) |
@@ -469,6 +471,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1362-airplane-seat-assignment-probability) |
 | [3462-vowels-game-in-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
@@ -539,4 +542,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0053-maximum-subarray) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
