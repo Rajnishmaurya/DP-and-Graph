@@ -49,6 +49,7 @@
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -220,6 +221,7 @@
 | [2187-vowels-of-all-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2187-vowels-of-all-substrings) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2904-sorting-three-groups) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3659-count-paths-with-the-given-xor-value) |
@@ -566,4 +568,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1511-count-number-of-teams) |
+## Memoization
+|  |
+| ------- |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 <!---LeetCode Topics End-->
