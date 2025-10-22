@@ -3,33 +3,32 @@ class Graph:
     def __init__(self, n: int, edges: List[List[int]]):
         self.n=n
         self.graph=defaultdict(list)
-        for start,end,value in edges:
-            self.graph[start].append((end,value))
-        
+        for x,y,w in edges:
+            self.graph[x].append((y,w))
 
     def addEdge(self, edge: List[int]) -> None:
-        start,end,value=edge
-        self.graph[start].append((end,value))
-
+        x,y,w=edge
+        self.graph[x].append((y,w))
         
 
     def shortestPath(self, node1: int, node2: int) -> int:
         n=len(self.graph)
 
-        heap=[]
-        heap.append((0,node1))
         distance=[float('inf') for _ in range(self.n)]
+        heap=[]
+        heapq.heappush(heap,(0,node1))
         distance[node1]=0
-        
+
         while heap:
-            value,node=heapq.heappop(heap)
+            val,node=heapq.heappop(heap)
             if node==node2:
-                return value
-            for end,d in self.graph[node]:
-                if value+d<distance[end]:
-                    distance[end]=value+d
-                    heapq.heappush(heap,(distance[end],end))
+                return val
+            for temp,val1 in self.graph[node]:
+                if distance[temp]>val+val1:
+                    distance[temp]=val+val1
+                    heapq.heappush(heap,(distance[temp],temp))
         return -1
+
 
         
 
