@@ -21,6 +21,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1300-critical-connections-in-a-network) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -61,6 +62,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
 | [1300-critical-connections-in-a-network](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1325-path-with-maximum-probability) |
@@ -316,6 +318,7 @@
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -344,6 +347,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
