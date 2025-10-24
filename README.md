@@ -193,6 +193,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0972-knight-dialer](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0972-knight-dialer) |
+| [0977-distinct-subsequences-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0977-distinct-subsequences-ii) |
 | [1063-best-sightseeing-pair](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1063-best-sightseeing-pair) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1121-partition-array-for-maximum-sum) |
@@ -285,6 +286,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0939-valid-permutations-for-di-sequence) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0962-flip-string-to-monotone-increasing) |
+| [0977-distinct-subsequences-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0977-distinct-subsequences-ii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1264-maximum-number-of-words-you-can-type) |
