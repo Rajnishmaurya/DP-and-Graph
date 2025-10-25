@@ -272,6 +272,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2187-vowels-of-all-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2187-vowels-of-all-substrings) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
