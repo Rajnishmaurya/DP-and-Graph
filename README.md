@@ -150,6 +150,7 @@
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
+| [2169-simple-bank-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2169-simple-bank-system) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2472-build-a-matrix-with-conditions) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -339,6 +340,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2169-simple-bank-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -502,6 +504,7 @@
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2169-simple-bank-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
@@ -573,6 +576,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
