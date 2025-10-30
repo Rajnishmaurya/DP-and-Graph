@@ -148,6 +148,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -235,6 +236,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2187-vowels-of-all-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2187-vowels-of-all-substrings) |
