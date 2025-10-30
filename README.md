@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2078-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Depth-First Search
 |  |
@@ -150,6 +151,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2078-maximum-compatibility-score-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2169-simple-bank-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2169-simple-bank-system) |
@@ -238,6 +240,7 @@
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2078-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2187-vowels-of-all-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2187-vowels-of-all-substrings) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2904-sorting-three-groups) |
@@ -488,6 +491,7 @@
 | [0136-single-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0287-find-the-duplicate-number) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [2078-maximum-compatibility-score-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2078-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3659-count-paths-with-the-given-xor-value) |
@@ -594,6 +598,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [2078-maximum-compatibility-score-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2078-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
