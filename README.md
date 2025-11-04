@@ -260,6 +260,7 @@
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2530-minimize-maximum-of-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2530-minimize-maximum-of-array) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2904-sorting-three-groups) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -435,6 +436,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2530-minimize-maximum-of-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Sorting
 |  |
@@ -528,6 +530,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2078-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3676-smallest-number-with-all-set-bits) |
