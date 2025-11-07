@@ -172,6 +172,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2586-longest-square-streak-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -446,6 +447,7 @@
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2530-minimize-maximum-of-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2530-minimize-maximum-of-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -514,6 +516,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [2530-minimize-maximum-of-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2586-longest-square-streak-in-an-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2904-sorting-three-groups) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -560,6 +563,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2530-minimize-maximum-of-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2530-minimize-maximum-of-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -618,6 +622,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Ordered Set
@@ -630,6 +635,7 @@
 ## Queue
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3827-implement-router) |
 ## Linked List
 |  |
