@@ -257,6 +257,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -546,6 +547,7 @@
 | [0136-single-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0287-find-the-duplicate-number) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2078-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -687,6 +689,7 @@
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1488-sort-integers-by-the-power-value) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Number Theory
 |  |
