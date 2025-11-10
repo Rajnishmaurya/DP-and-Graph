@@ -192,6 +192,7 @@
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
@@ -399,6 +400,7 @@
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -453,6 +455,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -495,6 +498,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -504,6 +508,7 @@
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
 | ------- |
