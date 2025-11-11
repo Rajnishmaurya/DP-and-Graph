@@ -118,6 +118,7 @@
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0413-arithmetic-slices) |
+| [0474-ones-and-zeroes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0474-ones-and-zeroes) |
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
 | [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0875-longest-mountain-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0875-longest-mountain-in-array) |
@@ -218,6 +219,7 @@
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0413-arithmetic-slices) |
+| [0474-ones-and-zeroes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0474-ones-and-zeroes) |
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -343,6 +345,7 @@
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0939-valid-permutations-for-di-sequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0939-valid-permutations-for-di-sequence) |
