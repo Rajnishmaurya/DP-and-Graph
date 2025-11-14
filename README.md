@@ -174,6 +174,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2586-longest-square-streak-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -294,6 +295,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2472-build-a-matrix-with-conditions) |
+| [2625-increment-submatrices-by-one](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2625-increment-submatrices-by-one) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
@@ -579,6 +581,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2530-minimize-maximum-of-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2530-minimize-maximum-of-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2625-increment-submatrices-by-one) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3616-make-array-elements-equal-to-zero) |
