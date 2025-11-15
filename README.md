@@ -371,6 +371,7 @@
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
@@ -642,6 +643,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Ordered Set
@@ -718,4 +720,5 @@
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0875-longest-mountain-in-array) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
