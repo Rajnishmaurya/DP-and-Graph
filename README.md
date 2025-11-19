@@ -169,6 +169,7 @@
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2169-simple-bank-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2472-build-a-matrix-with-conditions) |
@@ -402,6 +403,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2586-longest-square-streak-in-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -481,6 +483,7 @@
 | [1488-sort-integers-by-the-power-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2586-longest-square-streak-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -681,6 +684,7 @@
 | [1642-water-bottles](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
