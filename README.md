@@ -369,6 +369,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2187-vowels-of-all-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2187-vowels-of-all-substrings) |
@@ -402,6 +403,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -574,6 +576,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0287-find-the-duplicate-number) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2078-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
@@ -590,6 +593,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2530-minimize-maximum-of-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2530-minimize-maximum-of-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2625-increment-submatrices-by-one) |
