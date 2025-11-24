@@ -131,6 +131,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1032-satisfiability-of-equality-equations) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -580,6 +581,7 @@
 | [0078-subsets](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0287-find-the-duplicate-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1930-unique-length-3-palindromic-subsequences) |
