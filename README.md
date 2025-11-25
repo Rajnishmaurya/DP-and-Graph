@@ -321,6 +321,7 @@
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
 | [0804-rotated-digits](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0909-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-largest-perimeter-triangle) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1362-airplane-seat-assignment-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1370-count-number-of-nice-subarrays) |
@@ -402,6 +403,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1087-longest-arithmetic-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1370-count-number-of-nice-subarrays) |
