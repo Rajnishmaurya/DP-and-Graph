@@ -202,6 +202,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3623-count-number-of-trapezoids-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3827-implement-router) |
@@ -345,6 +346,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -429,6 +431,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3827-implement-router) |
@@ -754,4 +757,8 @@
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0875-longest-mountain-in-array) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
