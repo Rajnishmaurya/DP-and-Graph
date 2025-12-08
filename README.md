@@ -336,6 +336,7 @@
 | [1642-water-bottles](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1761-count-sorted-vowel-strings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1925-count-square-sum-triples) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2187-vowels-of-all-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2187-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -756,6 +757,7 @@
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0875-longest-mountain-in-array) |
+| [1925-count-square-sum-triples](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1925-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Geometry
 |  |
