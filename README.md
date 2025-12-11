@@ -196,6 +196,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3531-count-covered-buildings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -433,6 +434,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3623-count-number-of-trapezoids-i) |
@@ -516,6 +518,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2586-longest-square-streak-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3531-count-covered-buildings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Heap (Priority Queue)
 |  |
