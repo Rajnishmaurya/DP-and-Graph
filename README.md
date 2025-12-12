@@ -191,6 +191,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3433-count-mentions-per-user](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -346,6 +347,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3433-count-mentions-per-user](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -517,6 +519,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2586-longest-square-streak-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [3433-count-mentions-per-user](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -724,6 +727,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [3433-count-mentions-per-user](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
