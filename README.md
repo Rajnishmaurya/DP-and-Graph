@@ -33,6 +33,7 @@
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -199,6 +200,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3531-count-covered-buildings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -301,6 +303,7 @@
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Matrix
@@ -607,6 +610,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Bit Manipulation
 |  |
 | ------- |
