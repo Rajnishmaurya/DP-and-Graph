@@ -29,6 +29,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
+| [2092-find-all-people-with-secret](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2092-find-all-people-with-secret) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -52,6 +53,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
+| [2092-find-all-people-with-secret](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2092-find-all-people-with-secret) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -83,6 +85,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1738-maximal-network-rank) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2092-find-all-people-with-secret](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2092-find-all-people-with-secret) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -483,6 +486,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1753-path-with-minimum-effort) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2092-find-all-people-with-secret](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2092-find-all-people-with-secret) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2793-count-the-number-of-complete-components) |
@@ -530,6 +534,7 @@
 | [1488-sort-integers-by-the-power-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2092-find-all-people-with-secret](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2586-longest-square-streak-in-an-array) |
