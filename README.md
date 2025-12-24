@@ -196,6 +196,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2904-sorting-three-groups) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -528,6 +529,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3074-apple-redistribution-into-boxes) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -550,6 +552,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2586-longest-square-streak-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3531-count-covered-buildings) |
