@@ -199,6 +199,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3433-count-mentions-per-user](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3433-count-mentions-per-user) |
@@ -649,6 +650,7 @@
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
