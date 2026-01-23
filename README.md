@@ -207,6 +207,7 @@
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3531-count-covered-buildings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3531-count-covered-buildings) |
@@ -466,6 +467,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -576,6 +578,7 @@
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3863-power-grid-maintenance) |
@@ -742,6 +745,7 @@
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3863-power-grid-maintenance) |
@@ -756,6 +760,7 @@
 | [0141-linked-list-cycle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0141-linked-list-cycle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -776,6 +781,7 @@
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [3433-count-mentions-per-user](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
@@ -826,4 +832,5 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
