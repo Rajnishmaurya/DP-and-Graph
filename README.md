@@ -173,6 +173,7 @@
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2023-design-movie-rental-system](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2078-maximum-compatibility-score-sum) |
@@ -490,6 +491,7 @@
 | [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0647-palindromic-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0875-longest-mountain-in-array) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Union Find
 |  |
@@ -527,6 +529,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2530-minimize-maximum-of-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2530-minimize-maximum-of-array) |
@@ -551,6 +554,7 @@
 | [1488-sort-integers-by-the-power-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1488-sort-integers-by-the-power-value) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2274-keep-multiplying-found-values-by-two) |
