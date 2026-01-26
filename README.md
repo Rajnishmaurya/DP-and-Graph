@@ -148,6 +148,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1117-as-far-from-land-as-possible](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1121-partition-array-for-maximum-sum) |
+| [1200-minimum-absolute-difference](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1200-minimum-absolute-difference) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -550,6 +551,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0759-set-intersection-size-at-least-two) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1488-sort-integers-by-the-power-value](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1488-sort-integers-by-the-power-value) |
