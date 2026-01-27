@@ -588,6 +588,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -641,6 +642,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Tree
 |  |
 | ------- |
@@ -842,4 +844,8 @@
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
