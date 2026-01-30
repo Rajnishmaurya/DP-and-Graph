@@ -200,6 +200,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2904-sorting-three-groups) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -318,6 +319,7 @@
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2904-sorting-three-groups) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -431,6 +433,7 @@
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -645,6 +648,7 @@
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Tree
 |  |
@@ -851,5 +855,10 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
