@@ -126,6 +126,7 @@
 | [0553-optimal-division](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0553-optimal-division) |
 | [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0759-set-intersection-size-at-least-two) |
 | [0875-longest-mountain-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0876-hand-of-straights) |
@@ -624,6 +625,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1087-longest-arithmetic-subsequence) |
