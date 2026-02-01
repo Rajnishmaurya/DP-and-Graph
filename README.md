@@ -202,6 +202,7 @@
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2904-sorting-three-groups) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -571,6 +572,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2586-longest-square-streak-in-an-array) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -843,6 +845,7 @@
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0875-longest-mountain-in-array) |
 | [1925-count-square-sum-triples](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Geometry
 |  |
