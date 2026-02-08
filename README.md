@@ -15,6 +15,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0110-balanced-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0684-redundant-connection](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0684-redundant-connection) |
@@ -669,6 +670,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -753,6 +755,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
