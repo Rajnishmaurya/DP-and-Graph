@@ -25,6 +25,7 @@
 | [0871-keys-and-rooms](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1300-critical-connections-in-a-network) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1382-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -544,6 +545,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-largest-perimeter-triangle) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1382-balance-a-binary-search-tree) |
 | [1503-reducing-dishes](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1503-reducing-dishes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -673,6 +675,7 @@
 | [0110-balanced-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1382-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -752,12 +755,14 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1382-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Sliding Window
 |  |
@@ -835,6 +840,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0053-maximum-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1382-balance-a-binary-search-tree) |
 ## Probability and Statistics
 |  |
 | ------- |
