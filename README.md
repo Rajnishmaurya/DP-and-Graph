@@ -693,6 +693,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -852,6 +853,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/3721-longest-balanced-subarray-ii) |
