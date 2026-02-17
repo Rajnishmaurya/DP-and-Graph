@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0401-binary-watch) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0813-all-paths-from-source-to-target) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2078-maximum-compatibility-score-sum) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -695,6 +696,7 @@
 | [0136-single-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/0401-binary-watch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rajnishmaurya/DP-and-Graph/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
